@@ -3,7 +3,6 @@
 import 'package:flutter/material.dart';
 
 import 'color.dart';
-//hello
 
 void main() {
   runApp(MyApp());
